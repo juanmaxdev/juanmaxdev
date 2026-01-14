@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , soy Juan Manuel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;JavaScript+%7C+React+%7C+Next.js+%7C+...;Apasionado+por+la+IA+%E2%9D%A4;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas;" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;JavaScript+%7C+React+%7C+Vite+%7C+Next.js+%7C+...;Apasionado+por+la+IA+%E2%9D%A4;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas;" />
 </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 - 🚀 Siempre explorando nuevas tecnologías y mejores prácticas en desarrollo web.
 - 🌱 Actualmente sigo formándome y perfeccionando mis habilidades en React, Next.js, diseño de interfaces y rendimiento web.
-- 🤖 Apasionado por la inteligencia artificial y cómo se integra en el desarrollo web moderno.
+- 🤖 Apasionado por la inteligencia artificial y cómo se integra en el desarrollo moderno.
 - 💡 Me gusta compartir lo que aprendo y contribuir a proyectos que aporten valor a la comunidad.
 - 🤝 Abierto a colaborar, crecer en equipo y enfrentar nuevos desafíos.
 
@@ -29,7 +29,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lenguajes & Herramientas</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=php,java,js,html,css,react,nodejs,tailwind,bootstrap,postgres,mysql,git,gitlab,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vitest,nextjs,nodejs,tailwind,bootstrap,postgres,mysql,php,java,git,gitlab,vscode,docker,aws,terraform,postman,supabase,linux&perline=12"  />
 </p>
 <br />
 
