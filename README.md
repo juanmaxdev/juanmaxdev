@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , soy Juan Manuel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;JavaScript+%7C+React+%7C+Vite+%7C+Next.js+%7C+...;Apasionado+por+la+IA+%E2%9D%A4;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas;" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=FullStack+Jr+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;AWS+%7C+Cloud+Native;Apasionado+por+la+IA+%E2%9D%A4;" />
 </a>
 </p>
 
@@ -13,13 +13,13 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">Soy desarrollador Front-End apasionado por crear experiencias web modernas, funcionales y accesibles. Me encanta todo lo relacionado con la tecnología, en especial la inteligencia artificial, y disfruto mantenerme en constante aprendizaje. </p>
+<p align="left">Soy desarrollador FullStack Jr apasionado por crear soluciones de software escalables y de alto rendimiento. Especializado en React, Next.js, TypeScript y arquitecturas cloud en AWS. Me encanta la inteligencia artificial y cómo se integra en el desarrollo moderno.</p>
 
-- 🚀 Siempre explorando nuevas tecnologías y mejores prácticas en desarrollo web.
-- 🌱 Actualmente sigo formándome y perfeccionando mis habilidades en React, Next.js, diseño de interfaces y rendimiento web.
-- 🤖 Apasionado por la inteligencia artificial y cómo se integra en el desarrollo moderno.
-- 💡 Me gusta compartir lo que aprendo y contribuir a proyectos que aporten valor a la comunidad.
-- 🤝 Abierto a colaborar, crecer en equipo y enfrentar nuevos desafíos.
+- 🚀 Diseño y desarrollo soluciones escalables orientadas a rendimiento y mantenibilidad.
+- 🌱 Especializado en React, Next.js, TypeScript y Node.js.
+- 🤖 Apasionado por integrar modelos LLM y sistemas basados en IA.
+- 💡 Implemento arquitectura limpia, SOLID y testing para garantizar calidad.
+- 🤝 Colaboro en equipos multidisciplinares con metodologías Scrum y mejores prácticas.
 
   
 ---
