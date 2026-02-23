@@ -15,11 +15,11 @@
 <!--Start Intro-->               
 <p align="left">Soy desarrollador FullStack Jr apasionado por crear soluciones de software escalables y de alto rendimiento. Especializado en React, Next.js, TypeScript y arquitecturas cloud en AWS. Me encanta la inteligencia artificial y cómo se integra en el desarrollo moderno.</p>
 
-- 🚀 Diseño y desarrollo soluciones escalables orientadas a rendimiento y mantenibilidad.
-- 🌱 Especializado en React, Next.js, TypeScript y Node.js.
-- 🤖 Apasionado por integrar modelos LLM y sistemas basados en IA.
-- 💡 Implemento arquitectura limpia, SOLID y testing para garantizar calidad.
-- 🤝 Colaboro en equipos multidisciplinares con metodologías Scrum y mejores prácticas.
+- Diseño y desarrollo soluciones escalables orientadas a rendimiento y mantenibilidad.
+- Especializado en React, Next.js, TypeScript y Node.js.
+- Apasionado por integrar modelos LLM y sistemas basados en IA.
+- Implemento arquitectura limpia, SOLID y testing para garantizar calidad.
+- Colaboro en equipos multidisciplinares con metodologías Scrum y mejores prácticas.
 
   
 ---
