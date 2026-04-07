@@ -30,7 +30,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lenguajes & Herramientas</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vitest,nextjs,nodejs,tailwind,bootstrap,postgres,mysql,php,java,git,gitlab,vscode,docker,aws,terraform,postman,supabase,linux&perline=12"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vitest,nextjs,nodejs,nestjs,tailwind,bootstrap,postgres,mysql,php,java,git,gitlab,vscode,docker,aws,terraform,postman,supabase,linux&perline=12"  />
 </p>
 <br />
 
